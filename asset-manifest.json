@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/qwemerk/pages.git/static/js/main.46b510f3.js",
+    "static/js/146.e45a2b3e.js": "/qwemerk/pages.git/static/js/146.e45a2b3e.js",
+    "favicon.ico": "/qwemerk/pages.git/favicon.ico",
+    "index.html": "/qwemerk/pages.git/index.html",
+    "favicon-32.png": "/qwemerk/pages.git/favicon-32.png",
+    "favicon-16.png": "/qwemerk/pages.git/favicon-16.png",
+    "serve.json": "/qwemerk/pages.git/serve.json",
+    "manifest.json": "/qwemerk/pages.git/manifest.json",
+    "main.46b510f3.js.map": "/qwemerk/pages.git/static/js/main.46b510f3.js.map",
+    "146.e45a2b3e.js.map": "/qwemerk/pages.git/static/js/146.e45a2b3e.js.map"
+  },
+  "entrypoints": [
+    "static/js/146.e45a2b3e.js",
+    "static/js/main.46b510f3.js"
+  ]
+}
